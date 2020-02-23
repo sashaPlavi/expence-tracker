@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sashaPlavi/expence-tracker/static/css/main.1515c12b.chunk.css",
+    "main.js": "/sashaPlavi/expence-tracker/static/js/main.02e6a370.chunk.js",
+    "main.js.map": "/sashaPlavi/expence-tracker/static/js/main.02e6a370.chunk.js.map",
+    "runtime-main.js": "/sashaPlavi/expence-tracker/static/js/runtime-main.dbd31902.js",
+    "runtime-main.js.map": "/sashaPlavi/expence-tracker/static/js/runtime-main.dbd31902.js.map",
+    "static/js/2.dfc8c839.chunk.js": "/sashaPlavi/expence-tracker/static/js/2.dfc8c839.chunk.js",
+    "static/js/2.dfc8c839.chunk.js.map": "/sashaPlavi/expence-tracker/static/js/2.dfc8c839.chunk.js.map",
+    "index.html": "/sashaPlavi/expence-tracker/index.html",
+    "precache-manifest.61b68298281670a8a34938a4033c5957.js": "/sashaPlavi/expence-tracker/precache-manifest.61b68298281670a8a34938a4033c5957.js",
+    "service-worker.js": "/sashaPlavi/expence-tracker/service-worker.js",
+    "static/css/main.1515c12b.chunk.css.map": "/sashaPlavi/expence-tracker/static/css/main.1515c12b.chunk.css.map",
+    "static/js/2.dfc8c839.chunk.js.LICENSE.txt": "/sashaPlavi/expence-tracker/static/js/2.dfc8c839.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbd31902.js",
+    "static/js/2.dfc8c839.chunk.js",
+    "static/css/main.1515c12b.chunk.css",
+    "static/js/main.02e6a370.chunk.js"
+  ]
+}
